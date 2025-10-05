@@ -1,0 +1,5 @@
+{
+  "name": "DeFi Token Scanner",
+  "description": "A web application that scans newly launched crypto tokens across multiple DexScreener networks, runs them through a hybrid risk engine (RugCheck and GoPlus), and displays results in a detailed, user-friendly table with embedded Bubble Maps for holder analysis.",
+  "requestFramePermissions": []
+}
